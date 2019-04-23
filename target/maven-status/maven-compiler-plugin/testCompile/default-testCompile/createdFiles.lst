@@ -1,0 +1,11 @@
+testCases\BaseClass.class
+testCases\noncatalogupload.class
+testCases\Setmatching.class
+pageObjects\LoginPage.class
+testCases\TC_LoginTest_001.class
+utilities\XLUtils.class
+testCases\UploadProducts.class
+utilities\Reporting.class
+pageObjects\UploadProduct.class
+testCases\TC_LoginDDT_002.class
+utilities\ReadConfig.class
