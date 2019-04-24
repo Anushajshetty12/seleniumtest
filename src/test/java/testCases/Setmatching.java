@@ -40,12 +40,18 @@ public class Setmatching extends BaseClass {
 	String name1="Test1"+randomeString();
 	up.designname1(name1);
 	up.setcolor("blue");
+	
+	
 	up.setdesigns("C:/Users/Catalog/Downloads/disable.png");
-	Thread.sleep(2000);
+	Thread.sleep(8000);
+	up.setdesigns("C:/Users/Catalog/Downloads/anutest.png");
+	Thread.sleep(8000);
+	up.setdesigns("C:/Users/Catalog/Downloads/test1.png");
+	Thread.sleep(8000);
 	up.setenableduration("30");
 	Thread.sleep(3000);
 	up.clicksetbutton();
-	Thread.sleep(5000);
+	Thread.sleep(10000);
 	System.out.println("Set matching uploaded successfully!!!!");
 	
 }

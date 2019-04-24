@@ -7,13 +7,13 @@
 <test name="wishbook wholesale app">
 <parameter name="browser" value="chrome"/>
 <classes>
-<!--<class name="testCases.TC_LoginTest_001"/>-->
-<!--  <class name="testCases.TC_LoginDDT_002"/>-->
-<!--  <class name="testCases.UploadProducts"/>-->
+<!--  <class name="testCases.TC_LoginTest_001"/>-->
+<!-- <class name="testCases.TC_LoginDDT_002"/>-->
+<!-- <class name="testCases.UploadProducts"/> -->
 <!--<class name="testCases.noncatalogupload"/>-->
-<class name="testCases.Setmatching"/>  
-<!--  <class name="testCases.blogin"/>-->
-<!-- <class name="testCases.Bordercase"/> -->
+<class name="testCases.Setmatching"/>
+ <!--<class name="testCases.blogin"/>-->
+<!--<class name="testCases.Bordercase"/> -->
 </classes>
 </test>
 </suite>
