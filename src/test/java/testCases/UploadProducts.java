@@ -18,7 +18,8 @@ import org.testng.annotations.Test;
 import pageObjects.LoginPage;
 import pageObjects.UploadProduct;
 
-public class UploadProducts extends BaseClass{
+public class UploadProducts extends BaseClass
+{
 	
 	
 	
@@ -34,6 +35,8 @@ public class UploadProducts extends BaseClass{
 		
 		lp.ClickButton();
 		Thread.sleep(2000);
+		
+	
 		
 				
 		

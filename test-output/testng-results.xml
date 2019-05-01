@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-04-24T09:22:56Z" name="seleniumtest" finished-at="2019-04-24T09:24:13Z" duration-ms="77159">
+  <suite started-at="2019-05-01T09:53:39Z" name="seleniumtest" finished-at="2019-05-01T09:55:11Z" duration-ms="92269">
     <groups>
     </groups>
-    <test started-at="2019-04-24T09:22:56Z" name="wishbook wholesale app" finished-at="2019-04-24T09:24:13Z" duration-ms="77159">
+    <test started-at="2019-05-01T09:53:39Z" name="wishbook wholesale app" finished-at="2019-05-01T09:55:11Z" duration-ms="92269">
       <class name="testCases.Setmatching">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:testCases.Setmatching@291caca8]" started-at="2019-04-24T09:22:57Z" name="Setup" finished-at="2019-04-24T09:23:06Z" duration-ms="9470" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:testCases.Setmatching@385e9564]" started-at="2019-05-01T09:53:40Z" name="Setup" finished-at="2019-05-01T09:54:04Z" duration-ms="24094" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="setmatching()[pri:3, instance:testCases.Setmatching@291caca8]" started-at="2019-04-24T09:23:06Z" name="setmatching" finished-at="2019-04-24T09:24:12Z" duration-ms="66035" status="PASS">
+        <test-method signature="setmatching()[pri:3, instance:testCases.Setmatching@385e9564]" started-at="2019-05-01T09:54:04Z" name="setmatching" finished-at="2019-05-01T09:55:10Z" duration-ms="66254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setmatching -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Setmatching@291caca8]" started-at="2019-04-24T09:24:12Z" name="tearDown" finished-at="2019-04-24T09:24:13Z" duration-ms="1012" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Setmatching@385e9564]" started-at="2019-05-01T09:55:10Z" name="tearDown" finished-at="2019-05-01T09:55:11Z" duration-ms="1023" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

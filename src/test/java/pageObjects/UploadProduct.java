@@ -17,12 +17,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class UploadProduct {
-	WebDriver ldriver;
+	WebDriver ldriver; 
 	
-	public UploadProduct(WebDriver rdriver)
+public UploadProduct(WebDriver rdriver)
 	{
 		ldriver=rdriver;
-	PageFactory.initElements(rdriver,this);
+	PageFactory.initElements(ldriver,this);//initializes elements mentioned in this page inside upload constructor
 	}
 
 @FindBy(xpath="/html/body/div[3]/aside[1]/div/nav/ul/li[5]/a/span")
